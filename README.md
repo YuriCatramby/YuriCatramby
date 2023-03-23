@@ -7,8 +7,9 @@ This is my Data Science portfolio, where I share some of my projects and studies
 
 ## Social Media:
 
-<img src="https://github.com/YuriCatramby/01/blob/main/img_linkedin.png" alt="Pyspark" width="20"> https://www.linkedin.com/in/yuricatramby/<br><br>
-
+<div>
+  <a href="https://www.linkedin.com/in/yuricatramby/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 
 ## Tech:
