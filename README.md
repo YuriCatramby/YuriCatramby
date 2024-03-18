@@ -2,7 +2,7 @@
 
 Hi, my name is Yuri!
 
-This is my portfolio, where I share some of my projects and studies in the areas of Data Science, Data Analysis and Software Engineering. Feel free to explore and contact me if you have any questions or feedback.<br><br>
+This is my portfolio, where I share some of my projects and studies in the areas of Data Engineer, Data Science, Data Analysis and Software Engineering. Feel free to explore and contact me if you have any questions or feedback.<br><br>
 
 
 ## Social Media:
